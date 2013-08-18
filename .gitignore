@@ -1,0 +1,9 @@
+prestashop/tools/smarty/compile/*
+prestashop/tools/smarty/cache/*
+prestashop/tools/smarty_v2/compile/*
+prestashop/tools/smarty_v2/cache/*
+prestashop/cache/cachefs/*
+prestashop/log/*
+.htaccess
+env/*
+*.pyc

@@ -1,0 +1,827 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "download_and_parse.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "from scrapy.spider import BaseSpider",
+			"file": "delta_braking/delta_braking/spiders/main_spider.py",
+			"file_size": 0,
+			"file_write_time": 130211300445722649,
+			"settings":
+			{
+				"buffer_size": 36,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				":w",
+				":w - Save"
+			]
+		],
+		"width": 529.0
+	},
+	"console":
+	{
+		"height": 666.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/I/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/Default/comment.py",
+		"/I/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/I/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/I/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/User/hello_world.py",
+		"/I/Program Files/Sublime Text 2/sublime_plugin.py",
+		"/I/Dev/vk/env/Lib/site-packages/vkontakte/__init__.py",
+		"/I/Dev/vk/my.py",
+		"/I/Dev/kinostan_django/project/kinostan/settings.py",
+		"/I/Dev/kinostan_django/project/kinostan/local_settings.py",
+		"/I/Dev/kinostan_django/env/Lib/site-packages/django/db/models/base.py",
+		"/I/Dev/kinostan_django/lib/django-trunk/django/test/testcases.py",
+		"/I/Dev/kinostan_django/lib/django-trunk/django/test/client.py",
+		"/I/Dev/kinostan_django/env/Lib/site-packages/django/db/models/__init__.py",
+		"/I/Dev/kinostan_django/lib/django-trunk/django/forms/models.py",
+		"/I/Dev/kinostan_django/env/Lib/site-packages/django/test/simple.py",
+		"/I/Dev/kinostan_django/lib/django-trunk/django/forms/extras/widgets.py",
+		"/I/Dev/kinostan_django/project/kinostan/forms.py",
+		"/I/Dev/kinostan_django/lib/django-trunk/tests/test_runner/test_discover_runner.py",
+		"/I/Dev/kinostan_django/env/Lib/site-packages/django/test/runner.py",
+		"/I/Dev/kinostan_django/env/Lib/site-packages/django/forms/formsets.py",
+		"/I/Dev/kinostan_django/lib/django-trunk/django/forms/formsets.py",
+		"/I/Dev/kinostan_django/lib/django-trunk/django/contrib/auth/models.py",
+		"/I/Dev/kinostan_django/project/kinostan/models.py",
+		"/I/Dev/kinostan_django/lib/django-trunk/django/template/context.py",
+		"/I/Dev/kinostan_django/lib/django-trunk/django/template/base.py",
+		"/I/Dev/kinostan_django/lib/django-trunk/django/template/__init__.py",
+		"/I/Dev/kinostan_django/env/Lib/site-packages/django/forms/models.py",
+		"/I/Dev/kinostan_django/lib/django-trunk/django/forms/forms.py",
+		"/I/Dev/kinostan_django/lib/django-trunk/tests/test_client_regress/templates/request_context.html",
+		"/I/Dev/kinostan_django/lib/django-trunk/django/db/models/base.py",
+		"/I/Dev/kinostan_django/project/html/registration/reg_form.html",
+		"/I/Dev/kinostan_django/lib/django-registration-custom/registration/backends/default/urls.py",
+		"/I/Dev/kinostan_django/lib/django-registration-custom/registration/auth_urls.py",
+		"/I/Dev/kinostan_django/lib/django-trunk/django/forms/__init__.py",
+		"/I/Dev/kinostan_django/project/locale/ru_RU/LC_MESSAGES/django.po",
+		"/I/Dev/kinostan_django/lib/django-registration-custom/registration/models.py",
+		"/I/Dev/kinostan_django/env/Lib/site-packages/django/contrib/auth/tests/test_views.py",
+		"/I/Dev/kinostan_django/lib/django-trunk/django/contrib/auth/tests/utils.py",
+		"/I/Dev/kinostan_django/lib/django-trunk/django/contrib/auth/tests/test_views.py",
+		"/I/Dev/kinostan_django/env/Lib/site-packages/django/contrib/auth/views.py",
+		"/I/Dev/kinostan_django/env/Lib/site-packages/django/contrib/auth/tests/test_basic.py",
+		"/I/Dev/kinostan_django/lib/django-trunk/django/db/models/fields/__init__.py",
+		"/I/Dev/kinostan_django/lib/django-trunk/django/core/handlers/base.py",
+		"/I/Dev/kinostan_django/lib/django-trunk/django/db/transaction.py",
+		"/I/Dev/kinostan_django/lib/django-registration-custom/registration/forms.py",
+		"/I/Dev/kinostan_django/env/Lib/site-packages/django/http/response.py",
+		"/I/Dev/kinostan_django/django-trunk/django/db/models/base.py",
+		"/I/Dev/kinostan_django/django-trunk/django/forms/forms.py",
+		"/I/Dev/kinostan_django/django-trunk/django/forms/models.py",
+		"/I/Dev/kinostan_django/django-trunk/django/test/testcases.py",
+		"/I/Dev/kinostan_django/lib/django-invitation-git/invitation/tests.py",
+		"/I/Dev/kinostan_django/django-trunk/django/contrib/gis/db/models/fields.py",
+		"/I/Dev/kinostan_django/django-trunk/django/forms/fields.py",
+		"/I/Dev/kinostan_django/kinostan/tests.py",
+		"/I/Dev/kinostan_django/kinostan/views.py",
+		"/I/Dev/kinostan_django/kinostan/forms.py",
+		"/I/Dev/kinostan_django/kinostan/models.py",
+		"/I/Dev/kinostan_django/django-trunk/django/utils/translation/trans_real.py",
+		"/I/Dev/kinostan_django/django-trunk/docs/ref/models/fields.txt",
+		"/I/Users/Andrew/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"*.py",
+			"*.php",
+			"*tools.php",
+			"*.php",
+			"tools.*.php",
+			"*.php",
+			"*.py",
+			"test*.py",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"TextCommand",
+			"\\.lines",
+			"ex_range",
+			"get_region_by_range",
+			"Command",
+			"\\.lines",
+			"view.lines()",
+			"region",
+			"remove_line_comment",
+			"region",
+			"remove_line_comment",
+			"lines()",
+			"ViCancelCurrentAction",
+			"reset_input_state",
+			"id_state",
+			" p\\(",
+			" p(",
+			" p",
+			" p ",
+			"p",
+			"ppp",
+			"function p",
+			"p",
+			"ppp",
+			"unable to save addresses",
+			"id_address_delivery",
+			"secure_key",
+			"date_upd",
+			"ONLY_PHYSICAL_PRODUCTS_WITHOUT_SHIPPING",
+			"getOrderTotal",
+			"_min",
+			"min(",
+			"display_errors",
+			"products",
+			"getPackageShippingCost",
+			"getOrderShippingCostExternal",
+			"getOrderShippingCost",
+			"external_module_name",
+			"shipping_external",
+			"photo_path",
+			"album_path",
+			"PHOTOS_DIR",
+			"photo_paths",
+			"COMPLEX_METHODS",
+			"API_URL",
+			"UID",
+			"ForeignPassportFormSet",
+			"BodyArtFormSet",
+			"BodyArt",
+			"body_art_file",
+			"Visas_1049040172",
+			"body_art_data",
+			"fill_1st_registration_page",
+			"fill_2nd_registration_page",
+			"body_art_data",
+			"job1_role",
+			"RoleFormSet",
+			"job1_role",
+			"RoleFormSet",
+			"role_data",
+			"job_type1",
+			"formsets",
+			"fill_3rd_registration_page",
+			"fill_2nd_registration_page",
+			"ModelWithNested",
+			"Education",
+			"primary_key",
+			"acceptance",
+			"EducationFormSet",
+			"EducationFormSet, ProjectFormSet,)},\n  {'name': _(\"Achievements\"),\n",
+			"\n    ",
+			"Role",
+			"role",
+			"      ",
+			"primary_key",
+			"PostsFeed",
+			"primary_key",
+			"SportType",
+			"Instrument",
+			"ActivitiesForm",
+			"Voice",
+			"clothing_size",
+			"constitution",
+			"BytesIO",
+			"file",
+			"fill_2nd_registration_page",
+			"errors",
+			"assertFormError",
+			"assertEqual",
+			"def assertEqual",
+			"def assertE",
+			"SimpleUplo",
+			"body_art_file",
+			"body_art_file_name",
+			"body_art_file",
+			"body_art_file_name",
+			"self\\.fk",
+			"_get_foreign_key",
+			".fk =",
+			"self.fk",
+			"self.fk =",
+			"instance",
+			"BaseModelFormSet",
+			"fk",
+			"_pk_field",
+			"_construct_form",
+			"fk",
+			"set_trace",
+			"instance",
+			"formset",
+			"FormSet",
+			"formset",
+			"formset_factory",
+			"modelformset_factory",
+			"parent_model",
+			"FormSet",
+			"VisaFormSet",
+			"BaseNestedFormSet",
+			"ModelWithNested",
+			"BaseForeignPassportFormSet",
+			"BaseNestedFormSet",
+			"NestedModelForm",
+			"contenttypes",
+			"save_base",
+			"MyModelForm",
+			"BaseForeignPassportFormSet",
+			"BaseNestedFormSet",
+			"save_existing"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "download_and_parse.py",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "delta_braking/delta_braking/spiders/main_spider.py",
+					"settings":
+					{
+						"buffer_size": 36,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								36
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sublime_",
+				"Sublime Text 2/sublime_plugin.py"
+			],
+			[
+				"sublime_pu",
+				"Sublime Text 2/sublime_plugin.py"
+			],
+			[
+				"sublime",
+				"Sublime Text 2/sublime_plugin.py"
+			],
+			[
+				"vkontakte/api",
+				"env/Lib/site-packages/vkontakte/api.py"
+			],
+			[
+				"vkontakte/__",
+				"env/Lib/site-packages/vkontakte/__init__.py"
+			],
+			[
+				"vkonta",
+				"env/Lib/site-packages/vkontakte/api.py"
+			],
+			[
+				"django/forms/formsets",
+				"env/Lib/site-packages/django/forms/formsets.py"
+			],
+			[
+				"django/forms/formsets.py",
+				"lib/django-trunk/django/forms/formsets.py"
+			],
+			[
+				"models.py",
+				"project/kinostan/models.py"
+			],
+			[
+				"tests.py",
+				"project/kinostan/tests.py"
+			],
+			[
+				"settings.py",
+				"project/kinostan/settings.py"
+			],
+			[
+				"local_se",
+				"project/kinostan/local_settings.py"
+			],
+			[
+				"tests",
+				"project/kinostan/tests.py"
+			],
+			[
+				"models",
+				"project/kinostan/models.py"
+			],
+			[
+				"django/test/testcase",
+				"lib/django-trunk/django/test/testcases.py"
+			],
+			[
+				"django/test/client",
+				"lib/django-trunk/django/test/client.py"
+			],
+			[
+				"django/forms/fields.py",
+				"env/Lib/site-packages/django/forms/fields.py"
+			],
+			[
+				"testclient",
+				"lib/django-trunk/django/test/client.py"
+			],
+			[
+				"django/db/models",
+				"env/Lib/site-packages/django/db/models/base.py"
+			],
+			[
+				"fixture2.js",
+				"project/fixture2.json"
+			],
+			[
+				"django/forms/mode",
+				"lib/django-trunk/django/forms/models.py"
+			],
+			[
+				"forms/models",
+				"env/Lib/site-packages/django/forms/models.py"
+			],
+			[
+				"db/models/base",
+				"env/Lib/site-packages/django/db/models/base.py"
+			],
+			[
+				"testcase",
+				"lib/django-trunk/django/test/testcases.py"
+			],
+			[
+				"django/forms/extras/widget",
+				"lib/django-trunk/django/forms/extras/widgets.py"
+			],
+			[
+				"django/test/runner",
+				"env/Lib/site-packages/django/test/runner.py"
+			],
+			[
+				"django/test/runner/di",
+				"lib/django-trunk/tests/test_runner/test_discover_runner.py"
+			],
+			[
+				"django/forms/model",
+				"lib/django-trunk/django/forms/models.py"
+			],
+			[
+				"django/template/context",
+				"lib/django-trunk/django/template/context.py"
+			],
+			[
+				"django/template/base",
+				"lib/django-trunk/django/template/base.py"
+			],
+			[
+				"django/template/",
+				"lib/django-trunk/django/template/__init__.py"
+			],
+			[
+				"django/template/requestcon",
+				"lib/django-trunk/tests/test_client_regress/templates/request_context.html"
+			],
+			[
+				"django/forms/models",
+				"env/Lib/site-packages/django/forms/models.py"
+			],
+			[
+				"db/models/base.py",
+				"lib/django-trunk/django/db/models/base.py"
+			],
+			[
+				"django/forms/",
+				"lib/django-trunk/django/forms/forms.py"
+			],
+			[
+				"django/form/model",
+				"lib/django-trunk/django/forms/models.py"
+			],
+			[
+				"django/forms/forms.py",
+				"lib/django-trunk/django/forms/forms.py"
+			],
+			[
+				"django/forms/forms",
+				"lib/django-trunk/django/forms/forms.py"
+			],
+			[
+				"django/forms/__",
+				"lib/django-trunk/django/forms/__init__.py"
+			],
+			[
+				"django/auth/models.",
+				"lib/django-trunk/django/contrib/auth/models.py"
+			],
+			[
+				"registration/auth",
+				"lib/django-registration-custom/registration/auth_urls.py"
+			],
+			[
+				"registration/backends/def",
+				"lib/django-registration-custom/registration/backends/default/urls.py"
+			],
+			[
+				"django/db/models/fields",
+				"lib/django-trunk/django/db/models/fields/__init__.py"
+			],
+			[
+				"django/contrib/auth/test/uti",
+				"lib\\django-trunk\\django\\contrib\\auth\\tests\\utils.py"
+			],
+			[
+				"django/handlers/ba",
+				"lib\\django-trunk\\django\\core\\handlers\\base.py"
+			],
+			[
+				"djangotestclient",
+				"lib\\django-trunk\\django\\test\\client.py"
+			],
+			[
+				"django/test/test",
+				"lib\\django-trunk\\django\\test\\testcases.py"
+			],
+			[
+				"django/db/trans",
+				"lib\\django-trunk\\django\\db\\transaction.py"
+			],
+			[
+				"django/utils/translation/tr",
+				"django-trunk\\django\\utils\\translation\\trans_real.py"
+			],
+			[
+				"django/forms/fie",
+				"django-trunk\\django\\forms\\fields.py"
+			],
+			[
+				"django/models/fields",
+				"django-trunk\\docs\\ref\\models\\fields.txt"
+			],
+			[
+				"django/test/",
+				"django-trunk\\django\\test\\testcases.py"
+			],
+			[
+				"invitation/tests",
+				"lib\\django-invitation-git\\invitation\\tests.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 360.0,
+	"status_bar_visible": true
+}
